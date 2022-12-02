@@ -1,2 +1,3 @@
 # aoc-22
-Advent of Code 2022 (TS)
+
+Advent of Code 2022

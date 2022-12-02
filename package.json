@@ -1,0 +1,20 @@
+{
+  "name": "aoc-22",
+  "version": "1.0.0",
+  "description": "Advent of Code 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisher-bissett/aoc-22.git"
+  },
+  "author": "Fisher Bissett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisher-bissett/aoc-22/issues"
+  },
+  "homepage": "https://github.com/fisher-bissett/aoc-22#readme",
+  "type": "module"
+}
